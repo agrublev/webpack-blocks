@@ -1,6 +1,6 @@
 {
   "name": "fkit-webpack-blocks-assets",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "description": "Webpack block for style loader, file loader, url loader and friends.",
   "main": "lib/index",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "webpack",
     "webpack-blocks"
   ],
-  "repository": "andywer/webpack-blocks",
+  "repository": "agrublev/webpack-blocks",
   "bugs": "https://github.com/andywer/webpack-blocks/issues",
   "dependencies": {
     "css-loader": "^1.0.0",
