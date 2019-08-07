@@ -1,5 +1,5 @@
 {
-  "name": "fkit-webpack-blocks-assets",
+  "name": "@webpack-blocks/assets",
   "version": "2.5.3",
   "description": "Webpack block for style loader, file loader, url loader and friends.",
   "main": "lib/index",
